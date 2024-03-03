@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////DwAAAPDv5OT/AAAA8OTk5PQAAADw5OTk9AAAAPDk5OT0AAAA8OTk5PQAAADw5OTk9AAAAPDv5OT/AAAAAP///w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "barrel"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAMzMzAAAAADAM8wzDMvMwDwzYzOzVcU8NjNjM7PEzGwzM2MzzEwEwDMzZsNVxAzAM/zPw7VVxcDD9V+8u1XFwMZVVVVEVcUAbMw8VUXLxQDAZsZTRUTMAADMPFVFy8UAwFVVVbRVxQDA9V/LRVXFAAD7v8BVVMUAAAAAALzMDA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "lemoncrab"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
