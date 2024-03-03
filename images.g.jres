@@ -1,13 +1,13 @@
 {
-    "image2": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////DwAAAPDv5OT/AAAA8OTk5PQAAADw5OTk9AAAAPDk5OT0AAAA8OTk5PQAAADw5OTk9AAAAPDv5OT/AAAAAP///w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "barrel"
-    },
     "image1": {
         "data": "hwQQABAAAAAAAMzMzAAAAADAM8wzDMvMwDwzYzOzVcU8NjNjM7PEzGwzM2MzzEwEwDMzZsNVxAzAM/zPw7VVxcDD9V+8u1XFwMZVVVVEVcUAbMw8VUXLxQDAZsZTRUTMAADMPFVFy8UAwFVVVbRVxQDA9V/LRVXFAAD7v8BVVMUAAAAAALzMDA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "lemoncrab"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA//////8PAPDv5OTk5P8A8OTk5OTk9ADw5OTk5OT0APDk5OTk5PQA8OTk5OTk9ADw5OTk5OT0APDk5OTk5PQA8OTk5OTk9ADw5OTk5OT0APDk5OTk5PQA8O/k5OTk/wAA//////8PAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "barrel"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",

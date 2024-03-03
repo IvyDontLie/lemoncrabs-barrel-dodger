@@ -3,25 +3,6 @@ namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
         switch(helpers.stringTrim(name)) {
-            case "image2":
-            case "barrel":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . f f f f f f f . . . . . 
-. . . f f 4 4 4 4 4 f f . . . . 
-. . . f e e e e e e e f . . . . 
-. . . f 4 4 4 4 4 4 4 f . . . . 
-. . . f e e e e e e e f . . . . 
-. . . f 4 4 4 4 4 4 4 f . . . . 
-. . . f e e e e e e e f . . . . 
-. . . f f 4 4 4 4 4 f f . . . . 
-. . . . f f f f f f f . . . . . 
-`;
             case "image1":
             case "lemoncrab":return img`
 . . . c c . . . . . . . . . . . 
@@ -40,6 +21,25 @@ c 3 3 3 3 c c b 5 5 5 5 5 c c .
 . c 5 c 4 c 5 5 5 c 4 c 5 5 5 c 
 . c 5 c 4 c 5 5 5 5 c 5 5 5 5 c 
 . c c c . . c c c c c c c c c . 
+`;
+            case "image2":
+            case "barrel":return img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . f f f f f f f f f f f . . . 
+. f f 4 4 4 4 4 4 4 4 4 f f . . 
+. f e e e e e e e e e e e f . . 
+. f 4 4 4 4 4 4 4 4 4 4 4 f . . 
+. f e e e e e e e e e e e f . . 
+. f 4 4 4 4 4 4 4 4 4 4 4 f . . 
+. f e e e e e e e e e e e f . . 
+. f 4 4 4 4 4 4 4 4 4 4 4 f . . 
+. f e e e e e e e e e e e f . . 
+. f 4 4 4 4 4 4 4 4 4 4 4 f . . 
+. f e e e e e e e e e e e f . . 
+. f f 4 4 4 4 4 4 4 4 4 f f . . 
+. . f f f f f f f f f f f . . . 
 `;
         }
         return null;

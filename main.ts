@@ -12,6 +12,7 @@ tiles.setTilemap(tilemap`level2`)
 mySprite = sprites.create(assets.image`lemoncrab`, SpriteKind.Player)
 tiles.placeOnTile(mySprite, tiles.getTileLocation(1, 5))
 mySprite.ay = 500
+music.play(music.stringPlayable("G F G A - F E D ", 120), music.PlaybackMode.UntilDone)
 game.onUpdateInterval(2000, function () {
     projectile = sprites.createProjectileFromSide(assets.image`barrel`, randint(-100, -80), 0)
     tiles.placeOnTile(projectile, tiles.getTileLocation(9, 5))
